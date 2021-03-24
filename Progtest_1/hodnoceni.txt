@@ -1,0 +1,52 @@
+Hodnocení:	7.1500
+Max. hodnocení:	7.1500 (bez bonusů)
+
+Hodnotitel: automat
+Program zkompilován
+Test 'Zakladni test se soubory dle ukazky': Úspěch
+Dosaženo: 100.00 %, požadováno: 100.00 %
+Celková doba běhu: 0.005 s (limit: 4.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Mezni hodnoty (ASCII, decompress)': Úspěch
+Dosaženo: 100.00 %, požadováno: 80.00 %
+Celková doba běhu: 0.002 s (limit: 3.995 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Nahodny test (ASCII, decompress)': Úspěch
+Dosaženo: 100.00 %, požadováno: 80.00 %
+Celková doba běhu: 0.033 s (limit: 3.993 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Nespravne vstupy (ASCII, decompress)': Úspěch
+Dosaženo: 100.00 %, požadováno: 80.00 %
+Celková doba běhu: 0.001 s (limit: 3.960 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test osetreni I/O chyb (ASCII, decompress)': Úspěch
+Dosaženo: 100.00 %, požadováno: 80.00 %
+Celková doba běhu: 0.274 s (limit: 3.959 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test dekomprese (UTF-8, nahodny a nespravny vstup)': Úspěch
+Dosaženo: 100.00 %, požadováno: 75.00 %
+Celková doba běhu: 0.109 s (limit: 4.000 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test komprimace (nahodny a nespravny vstup, I/O)': Neúspěch
+Dosaženo: 0.00 %, požadováno: 100.00 %
+Celková doba běhu: 0.034 s (limit: 4.000 s)
+Neúspěch v bonusovém testu, hodnocení: Bonus nebude udělen
+Nesprávný výstup [Zpřístupnit nápovědu (162 B)]
+Nesprávný výstup [Zpřístupnit nápovědu (163 B)]
+Nesprávný výstup [Zpřístupnit nápovědu (180 B)]
+Nesprávný výstup [Zpřístupnit nápovědu (255 B)]
+Nesprávný výstup [Zpřístupnit nápovědu (7.64 KiB)]
+Nesprávný výstup [Zpřístupnit nápovědu (1.63 KiB)]
+Nesprávný výstup [Zpřístupnit nápovědu (2.89 KiB)]
+Nesprávný výstup [Zpřístupnit nápovědu (4.83 KiB)]
+Celkové hodnocení: 100.00 % (= 1.00 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00)
+Použité nápovědy: 2
+Penalizace za vyčerpané nápovědy: Není (2 <= 2 limit)
+Celkové procentní hodnocení: 100.00 %
+Celkem bodů: 1.00 * 7.15 = 7.15
+
+SW metriky:	
+ 	Celkem	Průměr	Maximum	Jméno funkce
+Funkce:	36	--	--	--
+Řádek kódu:	377	10.47 ± 9.90	38	CSymbol::readSymbol
+Cyklomatická složitost:	164	4.56 ± 5.99	30	CSymbol::valid

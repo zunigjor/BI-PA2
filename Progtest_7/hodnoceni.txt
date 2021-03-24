@@ -1,0 +1,26 @@
+Hodnocení:	7.1500
+Max. hodnocení:	7.1500 (bez bonusů)
+
+Hodnotitel: automat
+Program zkompilován
+Test 'Zakladni test s parametry podle ukazky': Úspěch
+Dosaženo: 100.00 %, požadováno: 100.00 %
+Celková doba běhu: 0.000 s (limit: 3.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi daty': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.055 s (limit: 3.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Efektivita - rychlost': Program překročil přidělenou maximální dobu běhu
+Vyčerpání limitu na celý test, program násilně ukončen po: 8.015 s (limit: 8.000 s)
+Neúspěch v bonusovém testu, hodnocení: Bonus nebude udělen
+Celkové hodnocení: 100.00 % (= 1.00 * 1.00)
+Celkové procentní hodnocení: 100.00 %
+Celkem bodů: 1.00 * 7.15 = 7.15
+
+SW metriky:	
+ 	Celkem	Průměr	Maximum	Jméno funkce
+Funkce:	5	--	--	--
+Řádek kódu:	15	3.00 ± 2.19	7	CSearch::Search
+Cyklomatická složitost:	7	1.40 ± 0.80	3	CSearch::Search
+

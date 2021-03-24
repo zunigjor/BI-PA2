@@ -1,0 +1,33 @@
+Hodnocení:	9.2950
+Max. hodnocení:	7.1500 (bez bonusů)
+
+Hodnotitel: automat
+Program zkompilován
+Test 'Zakladni test s parametry podle ukazky': Úspěch
+Dosaženo: 100.00 %, požadováno: 100.00 %
+Celková doba běhu: 0.000 s (limit: 4.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi daty': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.141 s (limit: 4.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test rychlosti (mnoho e-mailu)': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 1.951 s (limit: 6.000 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test rychlosti (mnoho presunu)': Úspěch
+Dosaženo: 100.00 %, požadováno: 100.00 %
+Celková doba běhu: 6.499 s (limit: 15.000 s)
+Úspěch v bonusovém testu, hodnocení: 130.00 %
+Celkové hodnocení: 130.00 % (= 1.00 * 1.00 * 1.00 * 1.30)
+Použité nápovědy: 1
+Penalizace za vyčerpané nápovědy: Není (1 <= 2 limit)
+Celkové procentní hodnocení: 130.00 %
+Celkem bodů: 1.30 * 7.15 = 9.29
+
+SW metriky:	
+ 	Celkem	Průměr	Maximum	Jméno funkce
+Funkce:	43	--	--	--
+Řádek kódu:	352	8.19 ± 18.09	119	main
+Cyklomatická složitost:	75	1.74 ± 1.82	13	CTimeStamp::Compare
+

@@ -1,0 +1,56 @@
+Hodnocení:	7.1500
+Max. hodnocení:	7.1500 (bez bonusů)
+
+Hodnotitel: automat
+Program zkompilován
+Test 'Zakladni test s parametry podle ukazky': Úspěch
+Dosaženo: 100.00 %, požadováno: 100.00 %
+Celková doba běhu: 0.000 s (limit: 1.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi vstupy (op=, op <<)': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.010 s (limit: 1.000 s)
+Úspěch v závazném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi vstupy (op=, op <<, op +)': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.009 s (limit: 2.000 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi vstupy (op=, op <<, op +, op*)': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.083 s (limit: 1.991 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test nahodnymi vstupy (op=, op <<, op +, op*, op >': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.029 s (limit: 1.908 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test relacnich operatoru (<, <=, ...)': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.071 s (limit: 1.879 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test kopirujiciho konstruktoru': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.001 s (limit: 1.808 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test operatoru=': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.001 s (limit: 1.807 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test operatoru v meznich podminkach': Úspěch
+Dosaženo: 100.00 %, požadováno: 50.00 %
+Celková doba běhu: 0.002 s (limit: 1.806 s)
+Úspěch v nepovinném testu, hodnocení: 100.00 %
+Test 'Test rychlosti (faktorial)': Program překročil přidělenou maximální dobu běhu
+Vyčerpání limitu na celý test, program násilně ukončen po: 2.006 s (limit: 2.000 s)
+Neúspěch v bonusovém testu, hodnocení: Bonus nebude udělen
+Test 'Test rychlosti (nasobeni pro velka cisla)': Nebylo testováno
+Neúspěch v bonusovém testu, hodnocení: Bonus nebude udělen
+Celkové hodnocení: 100.00 % (= 1.00 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00 * 1.00)
+Celkové procentní hodnocení: 100.00 %
+Celkem bodů: 1.00 * 7.15 = 7.15
+
+SW metriky:	
+ 	Celkem	Průměr	Maximum	Jméno funkce
+Funkce:	20	--	--	--
+Řádek kódu:	385	19.25 ± 21.08	94	main
+Cyklomatická složitost:	115	5.75 ± 4.53	15	operator
+
