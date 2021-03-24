@@ -9,7 +9,7 @@ All of the work here is written in C++.
 | Domácí úloha 02	|	7.8650 / 7.1500 :blush:	|
 | Domácí úloha 03	| 7.1500 / 7.1500 :blush:	|
 | Domácí úloha 04	| 7.1500 / 7.1500 :blush:	|
-| Domácí úloha 05	| 9.2950 / 7.1500 :blush:	|
+| Domácí úloha 05	| 9.2950 / 7.1500 :heart_eyes:	|
 | Domácí úloha 06	| 	0.0000 / 7.1500 :disappointed_relieved:	|
 | Domácí úloha 07	| 	7.1500 / 7.1500 :blush: |
 | Semestrální úloha	| 14.9850 / 27.0000 :blush:	|
