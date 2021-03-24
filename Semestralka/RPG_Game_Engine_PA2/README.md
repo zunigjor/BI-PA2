@@ -26,7 +26,7 @@ thanks to the way this engine is build.
 + Implements a basic item system.
 + Implements basic combat.
 
-![Main_menu](./img_preview/Main_menu.png "Main menu")
+![Main_menu](./img_preview/preview_1.png "Main menu")
 ![Main_menu](./img_preview/Main_menu.png "Main menu")
 ![Main_menu](./img_preview/Main_menu.png "Main menu")
 ![Main_menu](./img_preview/Main_menu.png "Main menu")
