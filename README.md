@@ -1,6 +1,6 @@
 # BI-PA2 Programming and Algorithmics 2
 
-Welcome to my PA2 repository! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+### Welcome to my PA2 repository! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 All of the work here is written in **C++**.
 
 | #  | Úloha            | body |
