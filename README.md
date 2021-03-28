@@ -3,7 +3,7 @@
 Welcome to my PA2 repository! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 All of the work here is written in **C++**.
 
-| #  | Úloha            | body `*` |
+| #  | Úloha            | body |
 |----|---------------|-------|
 | 01 | [Huffmanův kód](https://github.com/zunigjor/BI-PA2/tree/master/Progtest_1)	| 7.1500 / 7.1500 :blush:	|
 | 02 | [Daňový registr](https://github.com/zunigjor/BI-PA2/tree/master/Progtest_2)	|	7.8650 / 7.1500 :blush:	|
@@ -14,4 +14,4 @@ All of the work here is written in **C++**.
 | 07 | [Hledání v sekvencích](https://github.com/zunigjor/BI-PA2/tree/master/Progtest_7)	| 	7.1500 / 7.1500 :blush: |
 | -- | [Grafické RPG](https://github.com/zunigjor/BI-PA2/tree/master/Semestralka/RPG_Game_Engine_PA2)	| 14.9850 / 27.0000 :blush:	|
 
-` *: Normally the points go up to 5 but, because of the COVID-19 pandemic, the points were scaled up to create a final mark for the class.`
+###### Normally the points go up to 5, but because of the COVID-19 pandemic, the points were scaled up to create a final mark for the class.
